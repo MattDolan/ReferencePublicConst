@@ -1,0 +1,9 @@
+c:\code\ReferencePublicConst\DeclareHere\bin\Debug\DeclareHere.exe.config
+c:\code\ReferencePublicConst\DeclareHere\bin\Debug\DeclareHere.exe
+c:\code\ReferencePublicConst\DeclareHere\bin\Debug\DeclareHere.pdb
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.csprojResolveAssemblyReference.cache
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.DeclareHere.resources
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.Properties.Resources.resources
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.csproj.GenerateResource.Cache
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.exe
+c:\code\ReferencePublicConst\DeclareHere\obj\Debug\DeclareHere.pdb

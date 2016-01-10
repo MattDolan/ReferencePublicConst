@@ -1,0 +1,11 @@
+c:\code\ReferencePublicConst\CallHere\bin\Debug\CallHere.exe.config
+c:\code\ReferencePublicConst\CallHere\bin\Debug\CallHere.exe
+c:\code\ReferencePublicConst\CallHere\bin\Debug\CallHere.pdb
+c:\code\ReferencePublicConst\CallHere\bin\Debug\DeclareHere.exe
+c:\code\ReferencePublicConst\CallHere\bin\Debug\DeclareHere.pdb
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.csprojResolveAssemblyReference.cache
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.Callhere.resources
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.Properties.Resources.resources
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.csproj.GenerateResource.Cache
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.exe
+c:\code\ReferencePublicConst\CallHere\obj\Debug\CallHere.pdb
